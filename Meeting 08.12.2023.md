@@ -7,7 +7,7 @@ People: Jan, Marie, Jakob
 - Homodyne detection is a most popular method of measuring superconducting and spin qubits
 - The idea is to imprint the state of the qubits on the state of the resonator, which is in the coherent state. This takes time $\tau$ 
 - For the spin qubits, which suffer from low-frequency drift minimising $\tau$ is beneficial
-- How much we can learn from low-$\tau$ data
+- How much we can learn from low- $\tau$ data
 
 ### How the data looks like
 For the realistic data, I found how the blobs are being separated in time:
